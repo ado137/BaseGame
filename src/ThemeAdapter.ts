@@ -30,7 +30,7 @@
 
 class ThemeAdapter implements eui.IThemeAdapter {
 
-    /**
+    /**ccc
      * 解析主题
      * @param url 待解析的主题url
      * @param onSuccess 解析完成回调函数，示例：compFunc(e:egret.Event):void;
